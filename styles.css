@@ -1,0 +1,15 @@
+:root {
+    --dark: #1D1D2C;
+    --red: #E40C2B;
+    --light: #F7F4E9;
+    --blue: #3CBCC3;
+    --yellow: #EBA63F;
+    --green: #438945;
+    --purple: #7D3780;
+
+}
+
+canvas {
+    /*Border to see where our canvas is located*/
+    border: solid 5px var(--blue);
+}
